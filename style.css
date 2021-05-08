@@ -1,0 +1,120 @@
+.myName {
+    font-family: 'DM Serif Display', serif;
+    color: darkslategray;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: slategrey;
+}
+
+footer {
+    background-color: darkslategray;
+    color: white;
+}
+
+.footerName {
+    color: whitesmoke;
+    font-family: 'DM Serif Display', serif;
+}
+
+a{
+    font-family: 'DM Serif Display', serif;
+    color: darkslategray;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:slategray;
+}
+.navLink{
+    font-family: 'DM Serif Display', serif;
+    color: darkslategray;
+    font-size: 15px;
+}
+
+img.projectImg{
+    border-radius: 10px;
+}
+
+.cardStyle{
+    border: hidden;
+}
+
+.projectHeader{
+    font-family: 'DM Serif Display', serif;
+    color: darkslategray;
+}
+
+.projectPara{
+    font-family: 'Montserrat', sans-serif;
+    color: slategrey;
+}
+
+.navBody{
+    background-color: white;
+    
+}
+
+.btn {
+ margin-top: 10px;
+}
+
+img.portfolioMe {
+    width: 50%;
+    border-radius: 150px;
+    align-content: center;
+}
+
+.aboutMe{
+    width: 85%;
+    height: auto;
+}
+
+h4.aboutMe{
+    color: darkslategray;
+    font-family: 'DM Serif Display', serif;
+    text-align: left;
+}
+
+p.aboutMe{
+    padding-top: 3%;
+    color:slategrey;
+    font-size: 10pt;
+    text-align: left;
+}
+
+img.icon{
+    width:8%;
+    margin: 5px;
+    align-content: center;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+  }
+  
+  .coverText {
+    font-family: 'DM Serif Display', serif;
+    color:white;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+  }
+  h1{
+      font-size: 90px;
+  }
+
+  .cardFont{
+      font-size: 12px;
+      text-align: left;
+  }
+
+  .footerLink{
+    font-family: 'DM Serif Display', serif;
+    color: white;
+    font-size: 15px;
+  }

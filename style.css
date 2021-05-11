@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+    }
+
 .myName {
     font-family: 'DM Serif Display', serif;
     color: darkslategray;
